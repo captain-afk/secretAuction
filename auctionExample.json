@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "name": "Gold bar",
+            "bids":[
+                {
+                "user":"Andrew",
+                "bid": 10
+            },
+            {
+                "user":"Tegan",
+                "bid": 100
+            }   
+            ]
+        },
+        {
+            "name": "silver bar",
+            "bids": [
+                {
+                "user": "Andrew",
+                "bid": 50
+            },
+            {
+                "name": "Tegan",
+                "bid": 10
+            }
+        ]
+        }
+    ]
+}
